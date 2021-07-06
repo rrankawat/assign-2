@@ -1,8 +1,8 @@
-import React from 'react';
-import AllIssuesPage from './components/AllIssuesPage';
+import React from 'react'
+import AllIssuesPage from './pages/AllIssuesPage'
 
 const App = () => {
-  return <AllIssuesPage />;
-};
+  return <AllIssuesPage />
+}
 
-export default App;
+export default App
